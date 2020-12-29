@@ -1,0 +1,6 @@
+ <?xml version="1.0"?>
+
+-<table name="how will_i_rest_in_peace_if_i'm_buried_by_a_highway">
+     <Localization default="en.txt" directory="loc"/>
+     <MenuMusic source="sounds/menu.ogg" id="how will_i_rest_in_peace_if_i'm_buried_by_a_highway"/>
+  </table>
